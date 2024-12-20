@@ -1,2 +1,2 @@
 # starting_github
-To learn git and github
+To learn git and github.
